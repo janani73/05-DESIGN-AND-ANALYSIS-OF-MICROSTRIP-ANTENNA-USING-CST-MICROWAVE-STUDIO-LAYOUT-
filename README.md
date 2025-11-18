@@ -47,6 +47,10 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 <img width="762" height="348" alt="image" src="https://github.com/user-attachments/assets/d4806f51-79d0-435a-b7e0-bcc056fcce78" />
 
 
+<img width="863" height="412" alt="image" src="https://github.com/user-attachments/assets/2432011a-a4f7-4671-9f2a-7723787ee70e" />
+
+
+
 **Output**
 
 
